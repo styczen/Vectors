@@ -2,7 +2,7 @@
  * vector.cpp
  * Author: Bartlomiej Styczen
  */
-#include "vector.h"
+#include "vectors.h"
 
 
 //konstruktor domyslny

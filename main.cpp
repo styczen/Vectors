@@ -2,7 +2,7 @@
  * main.cpp
  * Author: Bartlomiej Styczen
  */
-#include "vector.h"
+#include "vectors.h"
 #include <cstdlib>
 
 using std::cerr;
